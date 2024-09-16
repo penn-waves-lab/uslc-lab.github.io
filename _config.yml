@@ -10,8 +10,8 @@ title: Uppsala Secure Learning and Control Lab
 email: andre.teixeira@it.uu.se
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Uppsala Secure Learning and Control Lab.
-baseurl: "https://penn-waves-lab.github.io"
-url: "/uslc-lab.github.io"
+baseurl: ""
+url: "https://penn-waves-lab.github.io/uslc-lab.github.io"
 
 include:
   - .htaccess
